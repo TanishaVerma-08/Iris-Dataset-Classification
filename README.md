@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
    ```
 2. Navigate to the project directory:
    ```bash
-   cd iris-dataset-analysis
+   cd iris-dataset-classification
    ```
 3. Run the script:
    ```bash
